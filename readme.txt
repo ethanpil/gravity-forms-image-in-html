@@ -2,8 +2,8 @@
 Contributors: ethanpil
 Tags: gravity, gravity forms, media, image, upload, insert image, uploader
 Requires at least: 3.0
-Tested up to: 3.6.1
-Stable tag: trunk
+Tested up to: 3.8
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,6 +29,8 @@ I added an attribute to every <img> tag of:
 This prevents large images for breaking the forms. You can easily remove it from the insert, but it shouldn't break anything if you leave it.
  
 Fork away: https://github.com/ethanpil/gravity-forms-image-in-html
+
+This WordPress plugin is brought to you by [Los Angeles Web Design](https://www.angeleswebdesign.com "Los Angeles Web Design WordPress Experts")
 
 Future Plans:
 1. Add Support for Gravity Forms WYSIWYG - http://wordpress.org/plugins/gravity-forms-wysiwyg/
